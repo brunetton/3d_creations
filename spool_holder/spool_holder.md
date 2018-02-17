@@ -14,7 +14,7 @@ Little margins for printing inaccuracies correction are customizables using onli
 
 ## Customization
 
-=> Follow [this link](https://cad.onshape.com/documents/e0d5d2b1631268fa5138a7b0/w/c3af7f52f15eabefeacf0723/e/47cb3047142caf10883fdb10) to customize and download parts.
+=> Follow [this link](https://cad.onshape.com/documents/429ec560f9b0775764446c44/w/3f1739d9e4f00967a84325ed/e/393bb933d40276bcda64833a) to customize and download parts.
 
 All offsets are pre-defined to work with my Anet A8, but it can be a little different on other printers.
 

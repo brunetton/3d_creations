@@ -11,6 +11,7 @@ Inspired by https://www.chepclub.com/paper-bed-level.html
   - in in Settings -> Serial connection
     - remove `M0` from blocked commands (so Octoprint doesn't intercepts M0 and send it to printer)
     - remove `M0` from Pausing commands (so Octoprint doesn't wait for user interraction in UI -> we can use the hardware rotary encoder)
+  - restart Octoprint server
 
 ## Simple spool holder
 
